@@ -1,8 +1,11 @@
 # PyTorch for Fast and Easy Machine Learning
 
+https://github.com/compdyn/pytorch_tutorial
+
 **Matthew West**  
 mwest@illinois.edu  
-https://lagrange.mechse.illinois.edu/
+http://lagrange.mechse.illinois.edu/  
+https://github.com/mwest1066
 
 _"Hands-On with CSE" tutorial series_
 
